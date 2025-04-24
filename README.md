@@ -2,7 +2,7 @@ Asia Pacific University - Object-Oriented Programming Assignment
 By: Justin Chew & Lee Ken Yang
 
 📌 Overview
-This is a psychology consultation management system developed using the object-oriented programming (OOP) approach in Python. The system is designed to facilitate consultation management between students and psychology lecturers at Asia Pacific University (APU). It includes a user-friendly graphical user interface (GUI) and saves all data in text files for persistence.
+This is a psychology consultation management system developed using the object-oriented programming (OOP) approach in Java. The system is designed to facilitate consultation management between students and psychology lecturers at Asia Pacific University (APU). It includes a user-friendly graphical user interface (GUI) and saves all data in text files for persistence.
 
 🎯 Features
 🔹 Common Features
